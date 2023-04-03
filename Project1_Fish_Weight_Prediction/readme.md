@@ -22,7 +22,7 @@ The fish weight prediction dataset includes the following features:
 - **Width:** The width of the fish, measured at its widest point.
 - **Height:** The height of the fish, measured from the top of the back to the bottom of the belly.
 - **Weight:** The weight of the fish.
-- **etc:**
+- **Etc**
 
 ## Usage
 
