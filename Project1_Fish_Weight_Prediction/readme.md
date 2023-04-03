@@ -22,8 +22,7 @@ The fish weight prediction dataset includes the following features:
 - **Width:** The width of the fish, measured at its widest point.
 - **Height:** The height of the fish, measured from the top of the back to the bottom of the belly.
 - **Weight:** The weight of the fish.
-- **Etc**
-
+- **Width2**
 ## Usage
 
 To use the fish weight prediction dataset, simply import the data into your data analysis tool and use it to train a machine learning model. You can then use this model to make predictions about the weight of a fish based on its measurements.
